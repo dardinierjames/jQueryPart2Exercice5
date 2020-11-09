@@ -1,0 +1,36 @@
+#flex{
+    display: flex;
+}
+#green{
+    background-color: #00ff00;
+    color: #fff;
+    width: 60px;
+    height: 30px;
+    text-align: center;
+    margin: 25px;
+    padding-top: 10px;
+    border: 1px solid #333333;
+    border-radius: 5px;
+}
+#red{
+    background-color: #ff0000;
+    color: #fff;
+    width: 60px;
+    height: 30px;
+    text-align: center;
+    margin: 25px;
+    padding-top: 10px;
+    border: 1px solid #333333;
+    border-radius: 5px;
+}
+#blue{
+    background-color: #0000ff;
+    color: #fff;
+    width: 60px;
+    height: 30px;
+    text-align: center;
+    margin: 25px;
+    padding-top: 10px;
+    border: 1px solid #333333;
+    border-radius: 5px;
+}
